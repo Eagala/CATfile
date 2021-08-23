@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+enum34 = "==1.1.10"
+py = "==1.10.0"
+pytest = "==6.2.4"
+selenium = "==3.141.0"
+Appium-Python-Client = "==1.2.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
